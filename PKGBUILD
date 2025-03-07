@@ -5,11 +5,11 @@ pkgver=1.0
 pkgrel=2
 pkgdesc="GreenLeaf theme for SDDM"
 arch=("any")
-url="https://github.com/kamack38/sddm-greenleaf"
+url="https://github.com/Arch-i3/sddm-greenleaf"
 license=("LGPL3")
 depends=('sddm' 'qt6-5compat' 'qt6-declarative' 'qt6-svg' 'ttf-jetbrains-mono-nerd')
 makedepends=("git")
-source=("git+https://github.com/kamack38/sddm-greenleaf")
+source=("git+https://github.com/Arch-i3/sddm-greenleaf")
 md5sums=('SKIP')
 
 package() {
